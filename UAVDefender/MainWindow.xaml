@@ -1,0 +1,28 @@
+﻿<mah:MetroWindow  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="UAVDefender.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UAVDefender"
+        mc:Ignorable="d"
+        WindowStyle="ThreeDBorderWindow"
+                  ResizeMode="NoResize"
+                  WindowStartupLocation="CenterScreen"
+        Title="" Height="720" Width="1280" Background="Black">
+    <Grid>
+        <Image x:Name="DisplayImage"></Image>
+        <Grid Background="#30000000" Margin="990,10,10,570" >
+            <TextBlock Name="DisplayInfo" Text="Camera 0" Foreground="White" VerticalAlignment="Top" TextAlignment="Right" FontSize="14" FontFamily="Cascadia Mono Bold"></TextBlock>
+        </Grid>
+        <Grid Background="#30000000" Margin="35,615,1055,35" >
+            <TextBlock Name="TimeText" Text="00:00:00" VerticalAlignment="Center" FontSize="36" FontFamily="Cascadia Mono Bold" TextAlignment="Center" Foreground="White"></TextBlock>
+        </Grid>
+        <TextBlock Name="ErrorText" Text="" VerticalAlignment="Top" FontSize="20" FontFamily="Cascadia Mono Bold" TextAlignment="Left" Foreground="Red"></TextBlock>
+
+        <Grid Name="WarningZone">
+            <TextBlock Text="UAV Detected!" Foreground="Red" FontSize="60" HorizontalAlignment="Center" Margin="0,84,0,525" FontFamily="Microsoft YaHei UI Bold"></TextBlock>
+        </Grid>
+    </Grid>
+
+
+</mah:MetroWindow>

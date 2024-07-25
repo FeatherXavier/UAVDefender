@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UAV-Defender", "UAV-Defender.pyproj", "{3139A8BC-17A1-40DA-BB73-49A555388E07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UAVDefender", "UAVDefender\UAVDefender.csproj", "{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoloBackend", "YoloBackend\YoloBackend.csproj", "{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1251AA9B-9A98-4F51-9B8F-C4BB1FF8B365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3139A8BC-17A1-40DA-BB73-49A555388E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3139A8BC-17A1-40DA-BB73-49A555388E07}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3139A8BC-17A1-40DA-BB73-49A555388E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3139A8BC-17A1-40DA-BB73-49A555388E07}.Release|x64.ActiveCfg = Release|Any CPU
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Debug|x64.ActiveCfg = Debug|x64
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Debug|x64.Build.0 = Debug|x64
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Release|x64.ActiveCfg = Release|x64
+		{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}.Release|x64.Build.0 = Release|x64
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Debug|x64.ActiveCfg = Debug|x64
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Debug|x64.Build.0 = Debug|x64
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Release|x64.ActiveCfg = Release|x64
+		{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}.Release|x64.Build.0 = Release|x64
+		{1251AA9B-9A98-4F51-9B8F-C4BB1FF8B365}.Debug|Any CPU.ActiveCfg = Debug
+		{1251AA9B-9A98-4F51-9B8F-C4BB1FF8B365}.Debug|x64.ActiveCfg = Debug
+		{1251AA9B-9A98-4F51-9B8F-C4BB1FF8B365}.Release|Any CPU.ActiveCfg = Release
+		{1251AA9B-9A98-4F51-9B8F-C4BB1FF8B365}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8FD214-71DA-406A-8690-B32DA9023EB3}
+	EndGlobalSection
+EndGlobal

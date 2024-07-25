@@ -1,0 +1,17 @@
+﻿<mah:MetroWindow  xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="UAVDefender.SVGViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:svgc = "http://sharpvectors.codeplex.com/svgc/"
+        xmlns:local="clr-namespace:UAVDefender"
+        mc:Ignorable="d"
+        Title="ModelViewer" Height="720" Width="1280" Background="Gray" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Border BorderBrush="Black" Background="Gray" BorderThickness="2" VerticalAlignment="Top">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Style="{StaticResource MahApps.Styles.ScrollViewer.GridView}">
+                <svgc:SvgViewbox IsHitTestVisible="False" Source="models/uav.onnx.svg" Height="850"/>
+            </ScrollViewer>
+        </Border>
+    </Grid>
+</mah:MetroWindow>

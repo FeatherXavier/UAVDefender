@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UAVDefender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\uavdefender.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\uavdefender.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\uavdefender.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\uavdefender.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|E:\\UAVDefender\\uavdefender\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yololabelkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yololabelkind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yoloscorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yoloscorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\startwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\startwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|E:\\UAVDefender\\uavdefender\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\svgviewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\svgviewer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\svgviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\svgviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\models\\uavmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\models\\uavmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\models\\yolococop6model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\models\\yolococop6model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yoloprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yoloprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\models\\uav.onnx.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\models\\uav.onnx.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yololabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yololabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\models\\abstract\\yolomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\models\\abstract\\yolomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|e:\\uavdefender\\uavdefender\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89101F7B-B4CC-40BD-975D-17D79E3D6E6B}|UAVDefender\\UAVDefender.csproj|solutionrelative:uavdefender\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yolobackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yolobackend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\yolobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\yolobackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|e:\\uavdefender\\yolobackend\\models\\yolococop5model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D1D5F6-5EFC-41EF-BE5B-1B1D408129EA}|YoloBackend\\YoloBackend.csproj|solutionrelative:yolobackend\\models\\yolococop5model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "UAVDefender\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "UAVDefender\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-01T07:23:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UAVDefender\\AssemblyInfo.cs",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\AssemblyInfo.cs",
+              "RelativeToolTip": "UAVDefender\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T02:49:12.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\App.config",
+              "RelativeDocumentMoniker": "UAVDefender\\App.config",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\App.config",
+              "RelativeToolTip": "UAVDefender\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-18T02:49:09.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UAVDefender.csproj",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\UAVDefender.csproj",
+              "RelativeDocumentMoniker": "UAVDefender\\UAVDefender.csproj",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\UAVDefender.csproj",
+              "RelativeToolTip": "UAVDefender\\UAVDefender.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T13:15:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "YoloModel.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\Models\\Abstract\\YoloModel.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\Models\\Abstract\\YoloModel.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\Models\\Abstract\\YoloModel.cs",
+              "RelativeToolTip": "YoloBackend\\Models\\Abstract\\YoloModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABOwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:52:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "uav.onnx.svg",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\models\\uav.onnx.svg",
+              "RelativeDocumentMoniker": "UAVDefender\\models\\uav.onnx.svg",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\models\\uav.onnx.svg",
+              "RelativeToolTip": "UAVDefender\\models\\uav.onnx.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACrAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAP8SURBVDhPrZRdbJNVGMd/p33b9Qtqt9HZbe2woKxsbGDYpk5DQAkTFcQPjJgY44XGEI3GmBBMNNmVNxoWojei8VITgyzGCwgRyRjJZM5JlvERt0C3dVu3rt3bD7r3bc/xYt0o4CX/5Mn5/uc85/zOgfsppZS4u6\u002Bnp\u002BdYc3PzB6VxlFIrcwGQUpLP58lms71Hjhw5PDExEbvT4S719PSMSillsVj83ygUCnJ4eFgODg7K48eP/xyJRDaVr7eWNwC6uroOd3R0VEsFBSOFzF1GZL7DmP0Rc/o3AP6dNNne1oHT6Qzb7fb6qampy4lEInGPob39NdHY2n74aq6i\u002BvpUP2sL3\u002BCc/ZZC7AyITUgVpBC/yMQcNDzSjs/n01wu18bKysrglStXLqTT6fSyoRC4H93nCz33zudrAqFn2iI2\u002B66aY3hnTjM8vpVf9A8ZqzjElta9yLlRMqabC0M3GBoaQtd1q8/ni5w/f/6nVCoV0wAczXu8Dfvf/\u002BTp7fXvvrxlzLVdfkriWo7\u002B7FGuh19kwnBycWyGrHmDV/xNNLZuoB4/hmHg8XgYGRlZzdIC4O96r7Mjsu6Ng00Da9tyH4vF4TxTopvcugPYsuA2C4TW13Jprkhf8iHEmhDV1VUEAgG8Xi9Wq3WVAgtAQ8Bz4IXG0aoW8ysxP2jiavmBLY8d4OC2AK\u002B3VJOZnsNnr0C4nQwmbMznLaX9KChDC0AD2Lwu9dTj3u\u002BdmXEHX5ufMfmHDbPwD1IpFJJ8UaNKs2Cz2xifWyKZNqhd60ApQNxmFECrDWj2t1pO19uiY\u002BKc5QvlbtstwsrC8mxKpgrzloFhmCwVChSUKg0r1F0PQJu8GtqfHP\u002B1YiDzthoN7in\u002BefGadWuNSygpUUohlQIUQirqkLQGPfg99pLZna8IQFN67NXZm3VL54o7MbNKczttls5wtdhW58br0NDzJgM3kkSTOVCKoM\u002BFx6GtJLB8jmXS8pP5zmS24vf\u002BGW1zSEs11ITrxJnpHGeuz6IME82uUfRUkSy6WIgv8KxFYLPc/gJWUl6RpbAonHuPLh2Kzcx/eW10PHFzOq0M9xoIrUdsfJilugbiShCPJwg7CjzfXIPdunLL98p69E38Ox5Mhi/1X\u002B1rCNjMTMps1DPSPRlfJDGf4lZiAVt6kaYHND7auYFKtx2EWEVGCEE0GuXUqVMndF2PWdfXMhCbYVfEPrujLt43Eqhvde1\u002B4slGv63IJq9Ge62bfU1\u002BXtpai8OmLW\u002BjhAuAsFiIRifo7e09oev6vV9Zd3d3n5RSmqZZCkOaxnIYq7G0WpqmKc\u002BePSuDwWAbK2CXSyn118mTJztL9WV0SgiV95Wzp\u002Bv638DCnU73Sf8B3E0j/55GTsEAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-02-07T12:53:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SVGViewer.xaml.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\SVGViewer.xaml.cs",
+              "RelativeDocumentMoniker": "UAVDefender\\SVGViewer.xaml.cs",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\SVGViewer.xaml.cs",
+              "RelativeToolTip": "UAVDefender\\SVGViewer.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T12:10:30.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SVGViewer.xaml",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\SVGViewer.xaml",
+              "RelativeDocumentMoniker": "UAVDefender\\SVGViewer.xaml",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\SVGViewer.xaml",
+              "RelativeToolTip": "UAVDefender\\SVGViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T12:10:14.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UAVModel.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\Models\\UAVModel.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\Models\\UAVModel.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\Models\\UAVModel.cs",
+              "RelativeToolTip": "YoloBackend\\Models\\UAVModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-21T02:45:16.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartWindow.xaml.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\StartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UAVDefender\\StartWindow.xaml.cs",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\StartWindow.xaml.cs",
+              "RelativeToolTip": "UAVDefender\\StartWindow.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwG0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T15:09:17.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartWindow.xaml",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\StartWindow.xaml",
+              "RelativeDocumentMoniker": "UAVDefender\\StartWindow.xaml",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\StartWindow.xaml",
+              "RelativeToolTip": "UAVDefender\\StartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-16T15:02:52.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UAVDefender",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\UAVDefender.csproj",
+              "RelativeDocumentMoniker": "UAVDefender\\UAVDefender.csproj",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\UAVDefender.csproj",
+              "RelativeToolTip": "UAVDefender\\UAVDefender.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T06:01:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UAVDefender\\MainWindow.xaml",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\MainWindow.xaml",
+              "RelativeToolTip": "UAVDefender\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-10T03:20:59.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\App.xaml",
+              "RelativeDocumentMoniker": "UAVDefender\\App.xaml",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\App.xaml",
+              "RelativeToolTip": "UAVDefender\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-12-10T03:28:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UAVDefender\\App.xaml.cs",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\App.xaml.cs",
+              "RelativeToolTip": "UAVDefender\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:28:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YoloCocoP6Model.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\Models\\YoloCocoP6Model.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\Models\\YoloCocoP6Model.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\Models\\YoloCocoP6Model.cs",
+              "RelativeToolTip": "YoloBackend\\Models\\YoloCocoP6Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:27:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "YoloCocoP5Model.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\Models\\YoloCocoP5Model.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\Models\\YoloCocoP5Model.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\Models\\YoloCocoP5Model.cs",
+              "RelativeToolTip": "YoloBackend\\Models\\YoloCocoP5Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:27:27.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "YoloBackend",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloBackend.csproj",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloBackend.csproj",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloBackend.csproj",
+              "RelativeToolTip": "YoloBackend\\YoloBackend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T03:27:07.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YoloScorer.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloScorer.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloScorer.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloScorer.cs",
+              "RelativeToolTip": "YoloBackend\\YoloScorer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:26:44.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YoloPrediction.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloPrediction.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloPrediction.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloPrediction.cs",
+              "RelativeToolTip": "YoloBackend\\YoloPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:26:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YoloLabelKind.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloLabelKind.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloLabelKind.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloLabelKind.cs",
+              "RelativeToolTip": "YoloBackend\\YoloLabelKind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:26:42.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YoloLabel.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloLabel.cs",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloLabel.cs",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloLabel.cs",
+              "RelativeToolTip": "YoloBackend\\YoloLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:26:40.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "YoloBackend.csproj",
+              "DocumentMoniker": "E:\\UAVDefender\\YoloBackend\\YoloBackend.csproj",
+              "RelativeDocumentMoniker": "YoloBackend\\YoloBackend.csproj",
+              "ToolTip": "E:\\UAVDefender\\YoloBackend\\YoloBackend.csproj",
+              "RelativeToolTip": "YoloBackend\\YoloBackend.csproj",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-10T03:26:15.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UAVDefender\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UAVDefender\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-10T03:20:58.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "UAVDefender\\Properties\\Settings.settings",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\Properties\\Settings.settings",
+              "RelativeToolTip": "UAVDefender\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-06-01T07:22:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "E:\\UAVDefender\\UAVDefender\\Properties\\Resource.resx",
+              "RelativeDocumentMoniker": "UAVDefender\\Properties\\Resource.resx",
+              "ToolTip": "E:\\UAVDefender\\UAVDefender\\Properties\\Resource.resx",
+              "RelativeToolTip": "UAVDefender\\Properties\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-01T07:22:56.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
